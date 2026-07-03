@@ -10,7 +10,7 @@
  * exactly "<username>.github.io", leave REPO_NAME as an empty string,
  * because that kind of repo is served from the domain root (no basePath).
  */
-const REPO_NAME = "portfolio";
+const REPO_NAME = "portfolio-v3";
 
 const isGithubActions = process.env.GITHUB_ACTIONS === "true";
 const basePath = isGithubActions && REPO_NAME ? `/${REPO_NAME}` : "";
