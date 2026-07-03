@@ -39,7 +39,7 @@ export default function Contact() {
               Cybersecurity internships, SOC Analyst, and Penetration Tester
               roles
             </strong>
-            . If you're an HR or hiring manager — I'd love to hear from you.
+            . If you&apos;re an HR or hiring manager — I&apos;d love to hear from you.
           </p>
           <p className="text-muted text-[0.95rem] leading-relaxed mb-6">
             Whether it&apos;s a full-time role, internship, freelance security
